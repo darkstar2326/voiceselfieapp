@@ -1,0 +1,22 @@
+#image{
+    width: 150px;
+    border-radius: 90px;
+}
+
+#h4{
+    color: red;
+}
+
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+#textbox{
+    width: 300px;
+}
+
+#textbox:hover{
+    cursor:default;
+}
